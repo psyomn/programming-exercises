@@ -1,4 +1,4 @@
-
+# Challenge 6 Intermediate / Dupdestroyer
 
 create a program that can remove all duplicate strings from a .txt. file. for example, "bdbdb" -> "bd"
 
