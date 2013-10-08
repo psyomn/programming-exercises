@@ -20,10 +20,16 @@ example
 ````
 
 *P03* : Find the K'th element of a list
+
+````lisp
 (element-at 2 '(a b c d))
 > b
+`````
 
 *P04* : Find the number of elements of a list
+
+````lisp
 (my-length '(a b c))
 > 3
+````
 
