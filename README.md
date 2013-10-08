@@ -1,6 +1,6 @@
-/r/dailyprogrammer
-==================
+Programming Exercises
+=====================
 
-A quick, accessible and downloadable copy of all the challenges that can be
-found on [/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer).
+A collection of programming exercises from various sources. I use these to 
+train / for fun / learning new programming languages. 
 
